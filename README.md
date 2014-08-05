@@ -1,4 +1,4 @@
 helloNode
 =========
 
-Basic nodeJS application
+Basic NodeJS application following http://www.nodebeginner.org/ tutorial
